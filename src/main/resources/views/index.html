@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Automation Template Deployment</title>
+    <link rel="stylesheet" href="/layui/css/reset.css">
+    <link rel="stylesheet" href="/layui/css/layui.css">
+    <link rel="stylesheet" href="/layui/css/layui-theme-custom.css">
+    <link rel="stylesheet" href="/layui/css/admin.css">
+    <link rel="stylesheet" href="/layui/css/style.css">
+</head>
+<body class="layui-layout-body">
+<div class="layui-layout layui-layout-admin">
+    <div class="layui-header layui-bg-white">
+        <div class="layui-logo"><i class="layui-icon layui-icon-template-1"></i>&emsp;AEM Workflow System</div>
+        <!-- 头部区域（可配合layui已有的水平导航） -->
+        <ul class="layui-nav layui-layout-left">
+            <li class="layui-nav-item"><a href=""><i class="layui-icon layui-icon-shrink-right"></i>  Shrink</a></li>
+            <li class="layui-nav-item"><a href=""><i class="layui-icon layui-icon-refresh-3"></i>  Refresh</a></li>
+        </ul>
+        <ul class="layui-nav layui-layout-right">
+            <li class="layui-nav-item">
+                <a href="javascript:;">
+<!--                    <img src="http://t.cn/RCzsdCq" class="layui-nav-img">-->
+                    <i class="layui-icon layui-icon-username"></i>&emsp;
+                    Scott Wang
+                </a>
+                <dl class="layui-nav-child">
+                    <dd><a href="">My Inbox</a></dd>
+                    <dd><a href="">Settings</a></dd>
+                </dl>
+            <li class="layui-nav-item"><a href=""><i class="layui-icon layui-icon-logout"></i>&emsp;Exit</a></li>
+        </ul>
+    </div>
+
+    <div class="layui-side layui-bg-black hs-left-nav">
+        <div class="layui-side-scroll">
+            <!-- 左侧导航区域（可配合layui已有的垂直导航） -->
+            <ul class="layui-nav layui-nav-tree">
+                <li class="layui-nav-item layui-nav-itemed">
+                    <a class="" href="javascript:;"><i class="layui-icon layui-icon-home"></i>&emsp;Home</a>
+                    <dl class="layui-nav-child">
+                        <dd><a href="javascript:;">my to-do list</a></dd>
+                        <dd><a href="javascript:;">my Request</a></dd>
+                        <dd><a href="javascript:;">my collection</a></dd>
+                    </dl>
+                </li>
+                <li class="layui-nav-item">
+                    <a href="javascript:;"><i class="layui-icon layui-icon-app"></i>&emsp;Template Request</a>
+                    <dl class="layui-nav-child">
+                        <dd><a href="javascript:;">new request</a></dd>
+                        <dd><a href="javascript:;">deploy request </a></dd>
+                    </dl>
+                </li>
+                <li class="layui-nav-item"><a href=""><i class="layui-icon layui-icon-set"></i>&emsp;Settings</a></li>
+                <li class="layui-nav-item"><a href="">Others</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="layui-body">
+
+        <div class="ly-body-frame">
+            <!--内容主题区域-->
+            <iframe name="mainFrame" class="ly-frame" src="/request/to_do/list"></iframe>
+        </div>
+    </div>
+
+    <div class="layui-footer">
+        <!-- 底部固定区域 -->
+        HSBC ICCM
+    </div>
+</div>
+<script src="/layui/layui.js"></script>
+<script>
+    //JavaScript代码区域
+    layui.use('element', function(){
+        var element = layui.element;
+
+    });
+</script>
+</body>
+</html>

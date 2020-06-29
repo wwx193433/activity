@@ -1,0 +1,6 @@
+.layui-bg-white .layui-nav-item a{
+    color: #333;
+}
+.layui-bg-white .layui-nav-item a:hover{
+    color: #000;
+}

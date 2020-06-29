@@ -1,0 +1,174 @@
+2020-06-29 09:46:27.838 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 09:48:26.540 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 09:50:38.297 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 09:51:14.593 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 09:52:14.567 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 09:54:11.848 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 09:56:14.719 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:07:04.932 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:10:38.960 [main] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:10:44.972 [main] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:12:16.509 [main] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:12:20.842 [main] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:12:56.947 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:13:05.815 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:28:39.822 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:28:41.359 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:29:51.229 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:29:52.446 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:30:55.398 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:30:59.943 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:31:22.544 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:31:24.948 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:32:02.414 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:32:03.816 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:34:34.699 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-4 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:35:04.671 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:35:09.222 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:36:17.502 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:36:19.338 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:39:51.194 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:39:52.652 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:41:47.988 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-4 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:41:49.332 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:42:44.942 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-5 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:42:46.687 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:44:29.946 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-6 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:44:33.275 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:46:43.618 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-7 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:46:46.967 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:58:57.842 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-8 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:58:59.135 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 10:59:29.542 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-9 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 10:59:30.863 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 11:24:07.574 [activiti-acquire-async-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-9 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4b25caff (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 11:45:40.461 [activiti-acquire-async-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-9 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5125a0bc (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 11:45:45.468 [activiti-acquire-async-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-9 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@257970fc (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 11:45:45.645 [activiti-acquire-timer-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-9 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5d40d2db (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 11:54:00.018 [activiti-acquire-timer-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-9 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1ce91d32 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 12:28:51.573 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 12:28:57.848 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 13:39:37.121 [activiti-acquire-async-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1fe7faa9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 13:39:37.983 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m12s81ms).
+2020-06-29 13:39:41.005 [activiti-acquire-timer-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6b753fa9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 13:39:42.134 [activiti-acquire-async-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@642e7916 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 13:44:59.020 [activiti-acquire-timer-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@647c005b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 13:45:04.027 [activiti-acquire-timer-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1015a251 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 13:45:09.183 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m1s191ms).
+2020-06-29 14:09:16.922 [activiti-acquire-async-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3b7c4a18 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 14:09:18.932 [activiti-acquire-timer-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4fca2cb8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 14:09:31.934 [activiti-acquire-async-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@794152c9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 14:09:37.099 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m57s908ms).
+2020-06-29 14:20:33.544 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:20:35.782 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:23:17.955 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:23:19.762 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:28:56.946 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-4 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:28:58.489 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:40:01.506 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-5 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:40:05.189 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:40:22.811 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:40:25.797 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:40:26.084 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2020-06-29 14:40:26.124 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 7100 is already in use
+2020-06-29 14:51:05.787 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-6 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:51:13.802 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:51:14.626 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:51:18.046 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:51:18.336 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2020-06-29 14:51:18.377 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 7100 is already in use
+2020-06-29 14:53:00.929 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-7 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:53:04.795 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:53:13.642 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:53:14.514 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:53:14.854 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2020-06-29 14:53:14.902 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 7100 is already in use
+2020-06-29 14:54:52.154 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-8 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:54:53.887 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:54:54.961 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:54:58.417 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:54:58.691 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2020-06-29 14:54:58.729 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 7100 is already in use
+2020-06-29 14:56:03.979 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-9 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:56:05.899 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:56:06.242 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:56:10.632 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:56:10.898 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2020-06-29 14:56:10.939 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 7100 is already in use
+2020-06-29 14:56:23.847 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:56:27.334 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 14:56:27.636 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2020-06-29 14:56:27.675 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 7100 is already in use
+2020-06-29 14:57:05.604 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 14:57:14.252 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:02:44.979 [activiti-acquire-timer-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1232e92a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 15:02:49.984 [activiti-acquire-timer-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@66ade546 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 15:02:54.988 [activiti-acquire-timer-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@b28d297 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2020-06-29 15:04:32.603 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:04:34.952 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:10:35.984 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:10:37.507 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:11:03.889 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:11:05.336 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:18:13.436 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-4 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:18:14.842 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:19:25.616 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-5 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:19:26.955 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:19:29.103 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-6 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:19:30.507 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:23:38.215 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-7 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:23:39.560 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:24:48.333 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:24:50.705 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:25:02.999 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:25:05.290 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:29:14.023 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:29:15.495 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:30:58.845 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:31:00.427 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:31:42.135 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-4 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:31:43.632 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:32:03.865 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-5 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:32:05.354 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:33:02.083 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-6 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:33:03.765 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:40:16.403 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:40:18.528 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:42:18.490 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:42:19.918 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:43:13.753 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:43:16.099 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:44:27.503 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:44:28.968 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:44:52.779 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:44:55.091 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 15:50:26.223 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 15:50:28.577 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 16:02:27.439 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 16:02:29.156 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 16:03:12.490 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 16:03:14.803 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 16:04:02.267 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 16:04:04.574 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 16:05:44.239 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 16:05:45.859 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 16:06:17.274 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 16:06:18.591 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 16:27:27.320 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-4 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 16:27:28.678 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 17:04:36.799 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 17:04:39.099 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 17:09:26.285 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 17:09:28.588 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 17:12:54.138 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 17:12:56.436 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 17:16:26.214 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 17:16:27.584 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 17:18:21.032 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-3 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 17:18:22.514 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 17:23:15.663 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 17:23:18.062 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 17:24:20.325 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-2 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 17:24:21.856 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-06-29 17:25:22.438 [restartedMain] WARN  com.zaxxer.hikari.HikariConfig - HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2020-06-29 17:25:24.807 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
