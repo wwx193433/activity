@@ -4,7 +4,6 @@ package com.hsbc.activity.utils;
 import com.hsbc.activity.core.enums.ResultEnum;
 import com.hsbc.activity.core.vo.ResultVO;
 import com.hsbc.activity.core.vo.TableVO;
-import com.hsbc.activity.module.user.model.User;
 
 import java.util.List;
 
@@ -15,15 +14,6 @@ import java.util.List;
  */
 public class ResultUtil {
 
-    /** 成功返回 表格数据. */
-    public static TableVO successTable(List<User> list){
-        TableVO tableVO = new TableVO();
-        tableVO.setCode(0);
-        tableVO.setMsg("success");
-        tableVO.setData(list);
-        tableVO.setCount(1L);
-        return tableVO;
-    }
     /** 成功返回. */
     public static ResultVO success(Object obj){
         ResultVO resultVO = new ResultVO();
