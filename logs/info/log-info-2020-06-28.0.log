@@ -1,5 +1,5 @@
-2020-06-28 11:43:52.743 [main] INFO  com.hsbc.activity.core.factory.ActivitiProcessTest - Starting ActivitiProcessTest on wangxuefengdeiMac.local with PID 1376 (started by wangxuefeng in /Users/wangxuefeng/workspace/activity)
-2020-06-28 11:43:52.747 [main] INFO  com.hsbc.activity.core.factory.ActivitiProcessTest - The following profiles are active: develop
+2020-06-28 11:43:52.743 [main] INFO  com.hsbc.scott.core.factory.ActivitiProcessTest - Starting ActivitiProcessTest on wangxuefengdeiMac.local with PID 1376 (started by wangxuefeng in /Users/wangxuefeng/workspace/activity)
+2020-06-28 11:43:52.747 [main] INFO  com.hsbc.scott.core.factory.ActivitiProcessTest - The following profiles are active: develop
 2020-06-28 11:43:54.275 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
 2020-06-28 11:43:54.541 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
 2020-06-28 11:43:57.131 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
@@ -9,7 +9,7 @@
 2020-06-28 11:43:59.822 [Thread-158] INFO  o.a.e.impl.asyncexecutor.ResetExpiredJobsRunnable - {} starting to reset expired jobs
 2020-06-28 11:43:59.822 [Thread-156] INFO  o.a.e.i.asyncexecutor.AcquireAsyncJobsDueRunnable - {} starting to acquire async jobs due
 2020-06-28 11:43:59.822 [Thread-157] INFO  o.a.e.impl.asyncexecutor.AcquireTimerJobsRunnable - {} starting to acquire async jobs due
-2020-06-28 11:44:00.892 [main] INFO  com.hsbc.activity.core.factory.ActivitiProcessTest - Started ActivitiProcessTest in 8.97 seconds (JVM running for 10.839)
+2020-06-28 11:44:00.892 [main] INFO  com.hsbc.scott.core.factory.ActivitiProcessTest - Started ActivitiProcessTest in 8.97 seconds (JVM running for 10.839)
 2020-06-28 11:44:02.481 [SpringContextShutdownHook] INFO  o.a.e.impl.asyncexecutor.DefaultAsyncJobExecutor - Shutting down the default async job executor [org.activiti.spring.SpringAsyncExecutor].
 2020-06-28 11:44:02.481 [activiti-acquire-timer-jobs] INFO  o.a.e.impl.asyncexecutor.AcquireTimerJobsRunnable - {} stopped async job due acquisition
 2020-06-28 11:44:02.481 [activiti-reset-expired-jobs] INFO  o.a.e.impl.asyncexecutor.ResetExpiredJobsRunnable - {} stopped resetting expired jobs

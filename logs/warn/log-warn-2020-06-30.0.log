@@ -1,0 +1,1 @@
+2020-06-30 13:15:31.331 [activiti-acquire-async-jobs] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6c058d26 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.

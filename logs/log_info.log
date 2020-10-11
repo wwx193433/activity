@@ -1,7 +1,153 @@
-2020-07-02 09:03:42.149 [SpringContextShutdownHook] INFO  o.a.e.impl.asyncexecutor.DefaultAsyncJobExecutor - Shutting down the default async job executor [org.activiti.spring.SpringAsyncExecutor].
-2020-07-02 09:03:42.150 [activiti-reset-expired-jobs] INFO  o.a.e.impl.asyncexecutor.ResetExpiredJobsRunnable - {} stopped resetting expired jobs
-2020-07-02 09:03:42.150 [activiti-acquire-async-jobs] INFO  o.a.e.i.asyncexecutor.AcquireAsyncJobsDueRunnable - {} stopped async job due acquisition
-2020-07-02 09:03:42.150 [activiti-acquire-timer-jobs] INFO  o.a.e.impl.asyncexecutor.AcquireTimerJobsRunnable - {} stopped async job due acquisition
-2020-07-02 09:03:42.152 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
-2020-07-02 09:03:42.152 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
-2020-07-02 09:03:42.154 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-08-26 17:50:54.419 [restartedMain] INFO  com.hsbc.scott.ActivityApplication - Starting ActivityApplication on 192.168.0.101 with PID 13611 (/Users/wangxuefeng/workspace/activity/target/classes started by wangxuefeng in /Users/wangxuefeng/workspace/activity)
+2020-08-26 17:50:54.422 [restartedMain] INFO  com.hsbc.scott.ActivityApplication - The following profiles are active: local
+2020-08-26 17:50:54.711 [restartedMain] INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+2020-08-26 17:50:54.711 [restartedMain] INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+2020-08-26 17:50:54.712 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-26 17:50:54.712 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-26 17:50:56.675 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@dba723f' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-26 17:50:56.686 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.activiti.spring.boot.ActivitiMethodSecurityAutoConfiguration$ActivitiMethodSecurityConfiguration' of type [org.activiti.spring.boot.ActivitiMethodSecurityAutoConfiguration$ActivitiMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$197ddf27] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-26 17:50:56.698 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-26 17:50:57.068 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7100 (http)
+2020-08-26 17:50:57.083 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7100"]
+2020-08-26 17:50:57.084 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-26 17:50:57.084 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-08-26 17:50:57.190 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-26 17:50:57.191 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2479 ms
+2020-08-26 17:50:57.259 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-08-26 17:50:57.586 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-08-26 17:50:57.595 [restartedMain] INFO  o.s.b.autoconfigure.h2.H2ConsoleAutoConfiguration - H2 console available at '/h2'. Database available at 'jdbc:h2:~/.h2/atd_db'
+2020-08-26 17:50:57.757 [restartedMain] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: a3423b57-7657-4f4b-97a4-592658545c4d
+
+2020-08-26 17:50:57.808 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-26 17:50:58.182 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - Found 1 Process Engine Configurators in total:
+2020-08-26 17:50:58.182 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - class org.activiti.spring.process.conf.ProcessExtensionsConfiguratorAutoConfiguration$$EnhancerBySpringCGLIB$$a6a98f4c (priority:10000)
+2020-08-26 17:50:58.182 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - Executing beforeInit() of class org.activiti.spring.process.conf.ProcessExtensionsConfiguratorAutoConfiguration$$EnhancerBySpringCGLIB$$a6a98f4c (priority:10000)
+2020-08-26 17:50:59.055 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - Executing configure() of class org.activiti.spring.process.conf.ProcessExtensionsConfiguratorAutoConfiguration$$EnhancerBySpringCGLIB$$a6a98f4c (priority:10000)
+2020-08-26 17:50:59.065 [restartedMain] INFO  org.activiti.engine.impl.db.DbSqlSession - performing drop on engine with resource org/activiti/db/drop/activiti.h2.drop.engine.sql
+2020-08-26 17:50:59.160 [restartedMain] INFO  org.activiti.engine.impl.db.DbSqlSession - performing create on engine with resource org/activiti/db/create/activiti.h2.create.engine.sql
+2020-08-26 17:50:59.287 [restartedMain] INFO  org.activiti.engine.impl.ProcessEngineImpl - ProcessEngine default created
+2020-08-26 17:50:59.288 [restartedMain] INFO  o.a.e.impl.asyncexecutor.DefaultAsyncJobExecutor - Starting up the default async job executor [org.activiti.spring.SpringAsyncExecutor].
+2020-08-26 17:50:59.289 [Thread-359] INFO  o.a.e.i.asyncexecutor.AcquireAsyncJobsDueRunnable - {} starting to acquire async jobs due
+2020-08-26 17:50:59.289 [Thread-360] INFO  o.a.e.impl.asyncexecutor.AcquireTimerJobsRunnable - {} starting to acquire async jobs due
+2020-08-26 17:50:59.290 [Thread-361] INFO  o.a.e.impl.asyncexecutor.ResetExpiredJobsRunnable - {} starting to reset expired jobs
+2020-08-26 17:50:59.574 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-08-26 17:51:00.737 [restartedMain] INFO  o.s.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@586985da, org.springframework.security.web.context.SecurityContextPersistenceFilter@47b00343, org.springframework.security.web.header.HeaderWriterFilter@a6e861a, org.springframework.security.web.csrf.CsrfFilter@572288ca, org.springframework.security.web.authentication.logout.LogoutFilter@51607b39, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@3187ee06, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@7ebd2f45, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@3436b83e, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@b42dc31, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@36c2d0d2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@77e6f807, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@208825ee, org.springframework.security.web.session.SessionManagementFilter@7210b54d, org.springframework.security.web.access.ExceptionTranslationFilter@289c4a3e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2b7a953a]
+2020-08-26 17:51:00.817 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-08-26 17:51:00.822 [restartedMain] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-08-26 17:51:00.897 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7100"]
+2020-08-26 17:51:00.918 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7100 (http) with context path ''
+2020-08-26 17:51:00.920 [restartedMain] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Starting...
+2020-08-26 17:51:00.997 [restartedMain] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Started.
+2020-08-26 17:51:00.997 [restartedMain] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Starting...
+2020-08-26 17:51:01.000 [restartedMain] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Started.
+2020-08-26 17:51:01.097 [restartedMain] INFO  com.hsbc.scott.ActivityApplication - Started ActivityApplication in 7.374 seconds (JVM running for 9.828)
+2020-08-26 17:51:38.221 [restartedMain] INFO  com.hsbc.scott.ActivityApplication - Starting ActivityApplication on 192.168.0.101 with PID 13692 (/Users/wangxuefeng/workspace/activity/target/classes started by wangxuefeng in /Users/wangxuefeng/workspace/activity)
+2020-08-26 17:51:38.222 [restartedMain] INFO  com.hsbc.scott.ActivityApplication - The following profiles are active: local
+2020-08-26 17:51:38.432 [restartedMain] INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+2020-08-26 17:51:38.433 [restartedMain] INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+2020-08-26 17:51:38.434 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-26 17:51:38.434 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-26 17:51:40.003 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@551d3e50' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-26 17:51:40.008 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.activiti.spring.boot.ActivitiMethodSecurityAutoConfiguration$ActivitiMethodSecurityConfiguration' of type [org.activiti.spring.boot.ActivitiMethodSecurityAutoConfiguration$ActivitiMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$244b2127] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-26 17:51:40.017 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-26 17:51:40.322 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7100 (http)
+2020-08-26 17:51:40.331 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7100"]
+2020-08-26 17:51:40.332 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-26 17:51:40.332 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-08-26 17:51:40.409 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-26 17:51:40.409 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1975 ms
+2020-08-26 17:51:40.486 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-08-26 17:51:41.799 [restartedMain] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: d1365da7-8877-46c8-8190-41759194bf91
+
+2020-08-26 17:51:41.843 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-26 17:51:42.237 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - Found 1 Process Engine Configurators in total:
+2020-08-26 17:51:42.237 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - class org.activiti.spring.process.conf.ProcessExtensionsConfiguratorAutoConfiguration$$EnhancerBySpringCGLIB$$b176d14c (priority:10000)
+2020-08-26 17:51:42.237 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - Executing beforeInit() of class org.activiti.spring.process.conf.ProcessExtensionsConfiguratorAutoConfiguration$$EnhancerBySpringCGLIB$$b176d14c (priority:10000)
+2020-08-26 17:51:42.248 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-08-26 17:51:44.000 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - Executing configure() of class org.activiti.spring.process.conf.ProcessExtensionsConfiguratorAutoConfiguration$$EnhancerBySpringCGLIB$$b176d14c (priority:10000)
+2020-08-26 17:51:44.013 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-08-26 17:51:45.040 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-08-26 17:51:46.063 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-26 17:51:46.066 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-08-26 17:52:11.100 [restartedMain] INFO  com.hsbc.scott.ActivityApplication - Starting ActivityApplication on 192.168.0.101 with PID 13743 (/Users/wangxuefeng/workspace/activity/target/classes started by wangxuefeng in /Users/wangxuefeng/workspace/activity)
+2020-08-26 17:52:11.102 [restartedMain] INFO  com.hsbc.scott.ActivityApplication - The following profiles are active: local
+2020-08-26 17:52:11.410 [restartedMain] INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+2020-08-26 17:52:11.411 [restartedMain] INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/wangxuefeng/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+2020-08-26 17:52:11.411 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-26 17:52:11.411 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-26 17:52:13.183 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@12f0a788' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-26 17:52:13.188 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.activiti.spring.boot.ActivitiMethodSecurityAutoConfiguration$ActivitiMethodSecurityConfiguration' of type [org.activiti.spring.boot.ActivitiMethodSecurityAutoConfiguration$ActivitiMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$d65b8d86] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-26 17:52:13.198 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-26 17:52:13.608 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7100 (http)
+2020-08-26 17:52:13.618 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7100"]
+2020-08-26 17:52:13.618 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-26 17:52:13.619 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-08-26 17:52:13.697 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-26 17:52:13.697 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2285 ms
+2020-08-26 17:52:13.766 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-08-26 17:52:13.971 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-08-26 17:52:13.977 [restartedMain] INFO  o.s.b.autoconfigure.h2.H2ConsoleAutoConfiguration - H2 console available at '/h2'. Database available at 'jdbc:h2:~/.h2/atd_db'
+2020-08-26 17:52:14.132 [restartedMain] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 3da21add-ddc3-4b44-8177-57cee9ebb71b
+
+2020-08-26 17:52:14.176 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-26 17:52:14.501 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - Found 1 Process Engine Configurators in total:
+2020-08-26 17:52:14.502 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - class org.activiti.spring.process.conf.ProcessExtensionsConfiguratorAutoConfiguration$$EnhancerBySpringCGLIB$$63873dab (priority:10000)
+2020-08-26 17:52:14.502 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - Executing beforeInit() of class org.activiti.spring.process.conf.ProcessExtensionsConfiguratorAutoConfiguration$$EnhancerBySpringCGLIB$$63873dab (priority:10000)
+2020-08-26 17:52:15.204 [restartedMain] INFO  o.a.engine.impl.cfg.ProcessEngineConfigurationImpl - Executing configure() of class org.activiti.spring.process.conf.ProcessExtensionsConfiguratorAutoConfiguration$$EnhancerBySpringCGLIB$$63873dab (priority:10000)
+2020-08-26 17:52:15.212 [restartedMain] INFO  org.activiti.engine.impl.db.DbSqlSession - performing drop on engine with resource org/activiti/db/drop/activiti.h2.drop.engine.sql
+2020-08-26 17:52:15.268 [restartedMain] INFO  org.activiti.engine.impl.db.DbSqlSession - performing create on engine with resource org/activiti/db/create/activiti.h2.create.engine.sql
+2020-08-26 17:52:15.371 [restartedMain] INFO  org.activiti.engine.impl.ProcessEngineImpl - ProcessEngine default created
+2020-08-26 17:52:15.372 [restartedMain] INFO  o.a.e.impl.asyncexecutor.DefaultAsyncJobExecutor - Starting up the default async job executor [org.activiti.spring.SpringAsyncExecutor].
+2020-08-26 17:52:15.373 [Thread-359] INFO  o.a.e.i.asyncexecutor.AcquireAsyncJobsDueRunnable - {} starting to acquire async jobs due
+2020-08-26 17:52:15.373 [Thread-360] INFO  o.a.e.impl.asyncexecutor.AcquireTimerJobsRunnable - {} starting to acquire async jobs due
+2020-08-26 17:52:15.374 [Thread-361] INFO  o.a.e.impl.asyncexecutor.ResetExpiredJobsRunnable - {} starting to reset expired jobs
+2020-08-26 17:52:15.675 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-08-26 17:52:16.798 [restartedMain] INFO  o.s.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3c15cdec, org.springframework.security.web.context.SecurityContextPersistenceFilter@74936cbd, org.springframework.security.web.header.HeaderWriterFilter@34e6690, org.springframework.security.web.csrf.CsrfFilter@17cd3ea0, org.springframework.security.web.authentication.logout.LogoutFilter@5b23309, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@5e684433, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@634425ba, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@49256ee4, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@58151b4a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@e2cf358, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@df95325, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2bc975f3, org.springframework.security.web.session.SessionManagementFilter@5ee21f59, org.springframework.security.web.access.ExceptionTranslationFilter@4633e9dd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@125907cf]
+2020-08-26 17:52:16.923 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-08-26 17:52:16.929 [restartedMain] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-08-26 17:52:17.024 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7100"]
+2020-08-26 17:52:17.050 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7100 (http) with context path ''
+2020-08-26 17:52:17.052 [restartedMain] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Starting...
+2020-08-26 17:52:17.139 [restartedMain] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Started.
+2020-08-26 17:52:17.139 [restartedMain] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Starting...
+2020-08-26 17:52:17.189 [restartedMain] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Started.
+2020-08-26 17:52:17.268 [restartedMain] INFO  com.hsbc.scott.ActivityApplication - Started ActivityApplication in 6.914 seconds (JVM running for 8.245)
+2020-08-26 17:52:17.535 [RMI TCP Connection(5)-192.168.0.101] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-26 17:52:17.535 [RMI TCP Connection(5)-192.168.0.101] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-26 17:52:17.547 [RMI TCP Connection(5)-192.168.0.101] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2020-08-26 23:34:21.787 [SpringContextShutdownHook] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Stopping...
+2020-08-26 23:34:21.788 [SpringContextShutdownHook] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Stopped.
+2020-08-26 23:34:21.788 [SpringContextShutdownHook] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Stopping...
+2020-08-26 23:34:21.788 [SpringContextShutdownHook] INFO  org.activiti.spring.AbstractActivitiSmartLifeCycle - Stopped.
+2020-08-26 23:34:21.818 [SpringContextShutdownHook] INFO  o.a.e.impl.asyncexecutor.DefaultAsyncJobExecutor - Shutting down the default async job executor [org.activiti.spring.SpringAsyncExecutor].
+2020-08-26 23:34:21.818 [activiti-reset-expired-jobs] INFO  o.a.e.impl.asyncexecutor.ResetExpiredJobsRunnable - {} stopped resetting expired jobs
+2020-08-26 23:34:21.818 [activiti-acquire-timer-jobs] INFO  o.a.e.impl.asyncexecutor.AcquireTimerJobsRunnable - {} stopped async job due acquisition
+2020-08-26 23:34:21.818 [activiti-acquire-async-jobs] INFO  o.a.e.i.asyncexecutor.AcquireAsyncJobsDueRunnable - {} stopped async job due acquisition
+2020-08-26 23:34:21.819 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-26 23:34:21.820 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-08-26 23:34:21.824 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-10-11 11:27:48.365 [restartedMain] INFO  com.hsbc.scott.ScottApplication - Starting ScottApplication on 192.168.0.101 with PID 1080 (/Users/wangxuefeng/workspace/scott/target/classes started by wangxuefeng in /Users/wangxuefeng/workspace/scott)
+2020-10-11 11:27:48.367 [restartedMain] INFO  com.hsbc.scott.ScottApplication - No active profile set, falling back to default profiles: default
+2020-10-11 11:27:48.442 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-10-11 11:27:48.444 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-10-11 11:27:49.415 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-10-11 11:27:49.427 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-10-11 11:27:49.428 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-10-11 11:27:49.428 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-10-11 11:27:49.498 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-10-11 11:27:49.498 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1051 ms
+2020-10-11 11:27:49.648 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-11 11:27:49.802 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-10-11 11:27:49.818 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-10-11 11:27:49.837 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-10-11 11:27:49.868 [restartedMain] INFO  com.hsbc.scott.ScottApplication - Started ScottApplication in 2.113 seconds (JVM running for 3.056)
+2020-10-11 11:28:23.493 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-10-11 11:28:23.493 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-10-11 11:28:23.500 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-10-11 11:28:52.961 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
